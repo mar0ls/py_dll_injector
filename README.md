@@ -33,7 +33,7 @@ To use the script:
 
 1. Clone the repository: `git clone https://github.com/mar0ls/py_dll_injector.git`
 2. Modify the script variables (`target_process`, `dll_name`, `hook_function`, `hook_address`) according to your requirements.
-3. Run the script: `python dll_injection_script.py`
+3. Run the script: `python py_dll_injector.py`
 
 ## Important Notes
 
